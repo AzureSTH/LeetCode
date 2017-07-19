@@ -1,0 +1,4 @@
+﻿  源.cpp
+g:\my program\kth smallest element in a bst\kth smallest element in a bst\源.cpp(8): warning C4091: “typedef ”: 没有声明变量时忽略“TreeNode”的左侧
+  Kth Smallest Element in a BST.vcxproj -> G:\my program\Kth Smallest Element in a BST\Debug\Kth Smallest Element in a BST.exe
+  Kth Smallest Element in a BST.vcxproj -> G:\my program\Kth Smallest Element in a BST\Debug\Kth Smallest Element in a BST.pdb (Partial PDB)
