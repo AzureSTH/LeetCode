@@ -12,7 +12,7 @@ void findmax(int letter[], int &result)
 }
 string frequencySort(string s) {
 	int letter[256] = { 0 };
-	int result = 0;//×î´óÆµÂÊ×ÖÄ¸±àºÅ
+	int result = 0;//æœ€å¤§é¢‘ç‡å­—æ¯ç¼–å·
 	string word;
 	for (int i = 0; i < s.size(); i++)
 	{
